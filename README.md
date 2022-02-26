@@ -1,1 +1,1 @@
-# Universuty assignments for the Web Development Course (Semester 4 Course)
+University assignments for the Web Development Course (Semester 4 Course)
