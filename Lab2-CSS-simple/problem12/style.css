@@ -4,7 +4,6 @@
   left: 100px;
   width: 500px;
   height: 10px;
-  background-color: linear-gradient(cornflowerblue);
   background: linear-gradient(90deg, white 0%, cornflowerblue 50%, white 100%);
 }
 
@@ -14,7 +13,6 @@
   left: 100px;
   width: 10px;
   height: 500px;
-  background-color: cornflowerblue;
   background: linear-gradient(180deg, white 0%, cornflowerblue 50%, white 100%);
 }
 
@@ -24,7 +22,6 @@
   left: 110px;
   width: 500px;
   height: 10px;
-  background-color: cornflowerblue;
   background: linear-gradient(90deg, white 0%, cornflowerblue 50%, white 100%);
 }
 
@@ -34,6 +31,5 @@
   left: 600px;
   width: 10px;
   height: 500px;
-  background-color: cornflowerblue;
   background: linear-gradient(180deg, white 0%, cornflowerblue 50%, white 100%);
 }
