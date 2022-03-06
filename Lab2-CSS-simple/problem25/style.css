@@ -1,31 +1,33 @@
 .jumping-ball {
-  margin: auto;
+  margin: 0 auto;
   position: relative;
   width: 200px;
   height: 200px;
   border-radius: 50%;
   background: cornflowerblue;
-  /* animation: jump 1s infinite ease-in-out; */
+  animation: jump 1s infinite ease-in-out;
 }
-
+/* 
 .jumping-ball:hover {
   animation: jump 5s infinite;
-}
+} */
 
 @keyframes jump {
   0% {
     top: 0px;
   }
-  25% {
+  40% {
     width: 200px;
+    height: 200px;
   }
   50% {
     top: 500px;
-    width: 225px;
-    border-radius: 50%;
+    width: 250px;
+    height: 180px;
   }
-  75% {
+  60% {
     width: 200px;
+    height: 200px;
   }
   100% {
     top: 0px;
